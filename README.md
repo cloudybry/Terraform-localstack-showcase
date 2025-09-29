@@ -35,6 +35,7 @@ This project demonstrates how to provision AWS resources locally using [Terrafor
    docker run --rm -it -p 4566:4566 -p 4571:4571 localstack/localstack
    ```
 2. **Initialize Terraform**
+
 terraform init
 
 3.**Apply Infrastructure**
@@ -54,3 +55,4 @@ Aspiring DevOps Engineer/Software Developer
 ## License
 
 MIT — feel free to fork, adapt, and build on this foundation.
+
