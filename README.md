@@ -47,15 +47,13 @@ terraform apply
 
 Bryan John  Berzabal
 
-Pasay City,National Capital Region
+Philippines      
 
-BSIT Graduate
+BSIT Graduate Philippine Christian University
 
 Aspiring DevOps Engineer/Software Developer
 
-## License
 
-MIT — feel free to fork, adapt, and build on this foundation.
 
 
 
