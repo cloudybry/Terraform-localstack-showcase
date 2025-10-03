@@ -1,6 +1,5 @@
 # terraform-localstack-showcase
 
-**Simulated AWS infrastructure, real Terraform mastery.**  
 Provision mock S3 and DynamoDB resources locally using Terraform v5 and LocalStack.
 
 ---
@@ -52,6 +51,7 @@ BSIT Graduate | Philippine Christian University
 Philippines
 
 Aspiring DevOps Engineer | Software Developer
+
 
 
 
