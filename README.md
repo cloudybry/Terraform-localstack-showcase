@@ -47,11 +47,12 @@ terraform apply
 
 Bryan John  Berzabal
 
-Philippines      
+BSIT Graduate | Philippine Christian University   
 
-BSIT Graduate Philippine Christian University
+Philippines
 
-Aspiring DevOps Engineer/Software Developer
+Aspiring DevOps Engineer | Software Developer
+
 
 
 
