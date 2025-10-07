@@ -2,13 +2,12 @@
 
 Provision mock S3 and DynamoDB resources locally using Terraform v5 and LocalStack.
 
----
 
 ##  Overview
 
 This project demonstrates how to provision AWS resources locally using [Terraform](https://www.terraform.io/) and [LocalStack](https://docs.localstack.cloud/). It’s designed for testing infrastructure-as-code workflows without touching real cloud environments — perfect for portfolio demos, CI pipelines, and rapid iteration.
 
----
+
 
 ##  Tools Used
 
@@ -25,7 +24,7 @@ This project demonstrates how to provision AWS resources locally using [Terrafor
 - `aws_s3_bucket` — mock S3 bucket
 - `aws_dynamodb_table` — mock DynamoDB table
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -51,6 +50,7 @@ BSIT Graduate | Philippine Christian University
 Philippines
 
 Aspiring DevOps Engineer | Software Developer
+
 
 
 
