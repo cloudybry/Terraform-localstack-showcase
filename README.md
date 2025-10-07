@@ -17,7 +17,7 @@ This project demonstrates how to provision AWS resources locally using [Terrafor
 - **PowerShell**
 - Optional: `awslocal` CLI for verification
 
----
+
 
 ##  Resources Provisioned
 
@@ -50,6 +50,7 @@ BSIT Graduate | Philippine Christian University
 Philippines
 
 Aspiring DevOps Engineer | Software Developer
+
 
 
 
